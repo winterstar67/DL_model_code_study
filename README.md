@@ -2,3 +2,6 @@
 
 ## NLP
 - Transformer
+
+## Generative model
+- GAN
