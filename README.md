@@ -1,4 +1,4 @@
-# Deep_learning_model_implementation
+# Deep_learning_model_code study with implementation
 
 ## Computer Vision
 - YOLOv1
